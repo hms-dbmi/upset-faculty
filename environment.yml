@@ -1,0 +1,14 @@
+name: upset-altair-env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.7
+  - jupyter
+  - nb_conda
+  - pandas
+  - requests
+  - numpy
+  - altair
+  - altair_saver
+  - vega_datasets
